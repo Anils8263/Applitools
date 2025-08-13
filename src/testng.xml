@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ApplitoolsTestSuite" parallel="false">
+    <test name="VisualTests">
+        <classes>
+            <class name="demo.DemoQATest" />
+        </classes>
+    </test>
+</suite>
